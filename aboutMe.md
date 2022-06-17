@@ -1,6 +1,7 @@
 <h1 align="center">Hey you 👋, I'm Rafael David da Silva</h1>
 <h3 align="center">A passionate frontend developer self-taught from Brazil</h3>
-
+<br>
+<br>
 - 🔭 I’m currently working on [react-js and responsive design](https://github.com/rdvid/reactProject)
 
 - 🌱 I’m currently learning **react-native too, and making the fullstack path on The Odin Project**
@@ -8,6 +9,8 @@
 - 📫 How to reach me **rafael_dvid@hotmail.com**
 
 - ⚡ Fun fact **I have a bunch of job experiences in a lot of different areas**
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
