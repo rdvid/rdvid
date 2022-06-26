@@ -2,19 +2,19 @@
 <h3 align="center">A passionate frontend developer self-taught from Brazil</h3>
 <br>
 <br>
-- 🔭 I’m currently working on [react-js and responsive design](https://github.com/rdvid/reactProject)
+- 🔭 Actually i'm making my projects using Javascript, Html and Css
 
-- 🌱 I’m currently learning **react-native too, and making the fullstack path on The Odin Project**
+- 🌱 I’m currently learning **responsive web design through FreeCodeCamp and making the fullstack Javascript path by The Odin Project**
 
-- 📫 How to reach me **rafael_dvid@hotmail.com**
+- 📫 How to reach me: **rafael_dvid@hotmail.com**
 
-- ⚡ Fun fact **I have a bunch of job experiences in a lot of different areas**
+- ⚡ Fun fact: **I have a bunch of job experiences in a lot of different areas**
 <br>
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-david-da-silva-0312a7224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-david-da-silva-0312a7224" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rdvid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rdvid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
