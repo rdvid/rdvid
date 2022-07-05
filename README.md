@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer self-taught from Brazil</h3>
 <br>
 <br>
+
 - 🔭 Actually i'm making my projects using Javascript, Html and Css
 
 - 🌱 I’m currently learning **responsive web design through FreeCodeCamp and making the fullstack Javascript path by The Odin Project**
