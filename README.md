@@ -1,4 +1,4 @@
-<h1 align="center">Hey you 👋, I'm Rafael David da Silva</h1>
+<h1 align="center">Hey you 👋, I'm Rafael David</h1>
 <h3 align="center">A passionate frontend developer self-taught from Brazil</h3>
 <br>
 <br>
