@@ -3,9 +3,9 @@
 <br>
 <br>
 
-- 🔭 Actually i'm making my projects using Javascript, Html, Bootstrap, React and Strapi :)
+- 🔭 Actually i make my projects using Javascript, Html, Bootstrap, React and Strapi :)
 
-- 🌱 I’m currently learning **responsive web design through FreeCodeCamp and making a back-end formation by Cubos Academy**
+- 🌱 Currently learning back-end with Nodejs with a formation by Cubos Academy**
 
 - 📫 How to reach me: **rafael_dvid@hotmail.com**
 
