@@ -3,13 +3,13 @@
 <br>
 <br>
 
-- 🔭 Actually i make my projects using Javascript, Html, Bootstrap, React and Strapi :)
+- 🔭 Actually i build projects using Javascript, Html, Bootstrap, React and Node :)
 
-- 🌱 Currently learning back-end with Nodejs with a formation by Cubos Academy**
+- 🌱 Currently learning back-end with Nodejs through a bootcamp partnership between iFood and Cubos Academy**
 
 - 📫 How to reach me: **rafael_dvid@hotmail.com**
 
-- ⚡ Fun fact: **I have a bunch of job experiences in a lot of different areas**
+- ⚡ Fun fact: **I have a LOT of job experiences in many different areas**
 <br>
 <br>
 
