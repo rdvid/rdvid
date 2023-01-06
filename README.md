@@ -1,15 +1,17 @@
 <h1 align="center">Hey you 👋, I'm Rafael David</h1>
-<h3 align="center">A passionate frontend developer self-taught from Brazil</h3>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 <br>
 <br>
 
-- 🔭 Actually i build projects using Javascript, Html, Bootstrap, React and Node :)
+ 🔭 Building small projects using Javascript, Bootstrap, React and Node :)
 
-- 🌱 Currently learning back-end with Nodejs through a bootcamp partnership between iFood and Cubos Academy**
+ 🌱 Currently learning back-end development with Nodejs and Express through a bootcamp partnership between iFood and Cubos Academy**
 
-- 📫 How to reach me: **rafael_dvid@hotmail.com**
+ 🌱 Student of Information Technology Bachelor Degree by Univesp
 
-- ⚡ Fun fact: **I have a LOT of job experiences in many different areas**
+ 📫 How to reach me: **rafael_dvid@hotmail.com**
+
+ ⚡ Fun fact: **I have a LOT of job experiences in many different areas**
 <br>
 <br>
 
