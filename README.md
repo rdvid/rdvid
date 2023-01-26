@@ -7,7 +7,9 @@
 
  🌱 Currently learning back-end development with Nodejs and Express through a bootcamp partnership between iFood and Cubos Academy**
 
- 🌱 Student of Information Technology Bachelor Degree by Univesp
+ 🌱 Former student of Information Technology bachelor degree by Univesp
+ 
+ 🌱 Software Developer Intern at Botdoc, working with python and php
 
  📫 How to reach me: **rafael_dvid@hotmail.com**
 
