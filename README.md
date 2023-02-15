@@ -25,5 +25,5 @@
 
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rdvid&hide=html,java,objective-c++&&show_icons=true&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdvid)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdvid&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
