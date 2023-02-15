@@ -28,12 +28,9 @@
 <br>
 <h3 align="center">Connect with me:</h3>
  
-[website]: https://rdvid.github.io/aboutme/
-[linkedin]: https://www.linkedin.com/in/rdvid/
-
 <p align="center">
   <a href="#" target="_blank"alt="Gmail">
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafael_dvid42@gmail.com"/></a>
+      <img src="https://img.shields.io/badge/-Website-ca5cdd?style=flat-square&labelColor=ca5cdd&logo=pinboard&logoColor=white&link=rafael_dvid42@gmail.com"/></a>
   </a>
   <a href="https://www.linkedin.com/in/rdvid/" target=_blank alt="Linkedin">
       <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
