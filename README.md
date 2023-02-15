@@ -18,10 +18,12 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/rdvid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rdvid" height="30" width="40" /></a>
 </p>
 
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rdvid&hide=html,java,objective-c++&&show_icons=true&theme=tokyonight)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdvid)](https://github.com/anuraghazra/github-readme-stats)
 
