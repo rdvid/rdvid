@@ -3,13 +3,13 @@
 <br>
 <br>
 
- 🔭 Building small projects using Javascript, Bootstrap, React and Node :)
+ 🔭 Building small projects using Typescript, Bootstrap, Angular and Node :)
 
  🌱 Currently learning back-end development with Nodejs and Express through a bootcamp partnership between iFood and Cubos Academy**
 
  🌱 Former student of Information Technology bachelor degree by Univesp
  
- 🌱 Software Developer Intern at Botdoc, working with python and php
+ 🌱 Software Developer Intern at Botdoc, working with Django Rest and Typescript
 
  📫 How to reach me: **rafael_dvid@hotmail.com**
 
@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/rdvid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rdvid" height="30" width="40" /></a>
 </p>
 
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rdvid&hide=html,css,java,objective-c++&&show_icons=true&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rdvid&hide=html,java,objective-c++&&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Languages and Tools:</h3>
