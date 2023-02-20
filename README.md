@@ -15,11 +15,11 @@
 <br>
 <div align="center">
  
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/rdvid">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdvid&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/rdvid">
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rdvid&show_icons=true&theme=tokyonight&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 <br>
