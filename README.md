@@ -14,7 +14,7 @@
 <br>
 <br>
 <div align="center">
- <!--
+ 
 <a href="https://github.com/rdvid">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdvid&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </a>
@@ -26,7 +26,7 @@
 <br>
 <br>
 <h3 align="center">Connect with me:</h3>
- -->
+ 
 <p align="center">
   <a href="https://rdvid.github.io/aboutme/" target="_blank" alt="Gmail">
       <img src="https://img.shields.io/badge/-Website-ca5cdd?style=flat-square&labelColor=ca5cdd&logo=pinboard&logoColor=white"/></a>
