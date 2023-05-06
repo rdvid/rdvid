@@ -1,7 +1,7 @@
 <h1 align="center">Hey you 👋, I'm Rafael David</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3><br>
 
- 🔭 Building small projects using Typescript, SCSS, Bootstrap and NodeJS :)
+ 🔭 Building small projects using Typescript, Express, SCSS, Bootstrap :)
 
  🌱 Currently learning back-end development with Nodejs and Express through a bootcamp partnership between iFood and Cubos Academy
 
