@@ -16,7 +16,7 @@
 <div align="center">
  
 <a href="https://github.com/rdvid">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdvid&layout=compact&theme=tokyonight&hide_langs_below=2" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdvid&layout=compact&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/rdvid">
