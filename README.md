@@ -1,13 +1,11 @@
-<h1 align="center">Hey you 👋, I'm Rafael David</h1>
+<h1 align="center">Yoo, I'm Rafael David</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3><br>
 
  🔭 Building small projects using Typescript, Express, SCSS, Bootstrap :)
 
- 🌱 Currently learning back-end development with Nodejs and Express through a bootcamp partnership between iFood and Cubos Academy
-
  🌱 Former student of Information Technology bachelor degree by Univesp
 
- 🌱 Software Developer Intern at Botdoc, working with Django Rest and Angular 14
+ 🌱 Software Developer Trainee at Botdoc, working with Django Rest Framework and Angular 14
 
  ⚡ Fun fact: **I have a LOT of job experiences in many different areas**
 <br>
