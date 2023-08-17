@@ -14,11 +14,11 @@
 <div align="center">
  
 <a href="https://github.com/rdvid">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdvid&layout=compact&theme=tokyonight" />
+  <img align="center" height="180em" src="https://rdvid-readme-stats-1.vercel.app/api/top-langs/?username=rdvid&layout=compact&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/rdvid">
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rdvid&show_icons=false&theme=tokyonight&line_height=27&count_private=true" alt=rdvid github stats"/>
+ <img align="center" height="180em" src="https://rdvid-readme-stats-1.vercel.app/api?username=rdvid&show_icons=false&theme=tokyonight&line_height=27&count_private=true" alt=rdvid github stats"/>
 </a>
 <br>
 <br>
