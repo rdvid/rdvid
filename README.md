@@ -1,13 +1,11 @@
 <h1 align="center">Yoo, I'm Rafael David</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3><br>
 
- 🔭 Building small projects using Typescript, Express, SCSS, Tailwind :)
+ 🔭 Building small projects using Nestjs, Angular and Tailwind :)
 
  🌱 Former student of Information Technology bachelor degree by Univesp
 
- 🌱 Software Developer Trainee at Botdoc, working with Django Rest Framework and Angular 14
-
- ⚡ Backend Instructor at Cubos Academy
+ ⚡ Backend Instructor at Cubos Academy providing debug and hints of Nodejs, Express,
 
  ⚡ Fun fact: **I have a LOT of job experiences in many different areas**
 <br>
