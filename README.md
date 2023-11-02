@@ -1,4 +1,4 @@
-<h1 align="center">Yoo, I'm Rafael David</h1>
+<h1 align="center">Hey, I'm Rafael David</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3><br>
 
  🔭 Building small projects using Nestjs, Angular and Tailwind :)
