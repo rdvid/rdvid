@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rafael David</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3><br>
 
- 🔭 Building small projects using Nestjs, Angular and Tailwind :)
+ 🔭 Building small projects using Nestjs, Angular and Tailwind with DaisyUI kit :)
 
  🌱 Former student of Information Technology bachelor degree by Univesp
 
