@@ -10,10 +10,10 @@
 
 ### About me 
 
-- 💻: Software Developer from Brazil.
-- 🔮:  Backend Instructor at Cubos Academy.
-- 👨‍🎓: Former student of Information Technology bachelor degree by Univesp.
-- 📚: Russian literature and philosophy casual reader (specially Dostoévski).
+- 💻 Software Developer from Brazil.
+- 🔮  Backend Instructor at Cubos Academy.
+- 👨‍🎓 Former student of Information Technology bachelor degree by Univesp.
+- 📚 Russian literature and philosophy casual reader (specially Dostoévski).
 - 🎹 Piano apprendice.
 - 🦂 Mentoring at Black Scorpion Software in software development with focus on image processing
 - 🔭 Building small projects using Nestjs, Angular and Tailwind with DaisyUI Kit :)
