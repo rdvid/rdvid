@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-<img align="right" src="https://media.giphy.com/media/60W8a7Vz6Ng9sS6DEf/giphy.gif" width="auto" height="250px"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRuYzYyYnFsdW1pdzlseng0cG1oejZpOXQ5bXBiYXJ6NThlYnQ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/axnFGXT6MzvgY/giphy.gif" width="auto" height="250px"/>
 
 ### About me 
 
