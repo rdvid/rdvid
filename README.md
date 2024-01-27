@@ -23,7 +23,7 @@
 <div align="center">
  
 <a href="https://github.com/rdvid">
-  <img align="center" height="180em" decoding="async" loading="lazy" src="https://github-readme-stats-inky-three-35.vercel.app/api/top-langs/?username=rdvid&layout=compact&theme=tokyonight" />
+  <img align="center" height="180em" decoding="async" loading="lazy" src="https://github-readme-stats-inky-three-35.vercel.app/api/top-langs/?username=rdvid&layout=compact&theme=tokyonight&hide=html,css,shell" />
 </a>
 
 <a href="https://github.com/rdvid">
