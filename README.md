@@ -47,5 +47,12 @@
  </p>  
  
 </div>
+
+<div align="center">
+  <p><b>This profile was seen</b></p>
+  <img src="https://profile-counter.glitch.me/rdvid/count.svg" />
+  <p><b>times</b></p>
+</div>
+
  
 
