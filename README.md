@@ -46,7 +46,7 @@
    </a>
  </p>  
  
-</div>
+<br>
 
 <div align="center">
   <p><b>This profile was seen</b></p>
