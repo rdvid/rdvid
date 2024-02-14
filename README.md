@@ -14,9 +14,9 @@
 - 🔮 Backend Instructor @Cubos Academy.
 - 👨‍🎓 Former student of Information Technology bachelor degree by Univesp.
 - 📚 Russian literature and philosophy casual reader (specially Dostoevski).
-- 🎹 Piano Enthusiast.
-- 🔭 Building projects using Nestjs, Angular and Tailwind with DaisyUI Kit :)
-- 🐍 Diving further into Web Development with Python (Django, DRF, Flask) and React with Next
+- 🎹 Classical piano student.
+- 🔭 Building projects using Nestjs, Angular with Tailwind
+- 🐍 Diving further into Fullstack Web Development with Python (Django, DRF, Flask) and React with Next
 <br>
 <br>
 <br>
