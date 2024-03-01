@@ -13,10 +13,10 @@
 - 💻 Software Developer from Brazil.
 - 🔮 Backend Instructor @Cubos Academy.
 - 👨‍🎓 Former student of Information Technology bachelor degree by Univesp.
-- 📚 Russian literature and philosophy casual reader (specially Dostoevski).
-- 🎹 Classical piano student.
 - 🔭 Building projects using Nestjs, Angular with Tailwind
 - 🐍 Diving further into Fullstack Web Development with Python (Django, DRF, Flask) and React with Next
+- 📚 Russian literature and philosophy casual reader (specially Dostoevski).
+- 🎹 Classical piano student.
 <br>
 <br>
 <br>
