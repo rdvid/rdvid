@@ -35,7 +35,7 @@
 <h3 align="center">Connect with me:</h3>
  
  <p align="center">
-   <a href="https://rdvid.tech/" target="_blank" alt="Portfoly">
+   <a href="https://rdvid.tech/en/" target="_blank" alt="my webpage">
        <img src="https://img.shields.io/badge/-Website-ca5cdd?style=flat-square&labelColor=ca5cdd&logo=pinboard&logoColor=white"/></a>
    </a>
    <a href="https://www.linkedin.com/in/rdvid/" target=_blank alt="Linkedin">
