@@ -11,7 +11,7 @@
 ### About me 
 
 - 💻 Software Developer from Brazil.
-- 🔮 Backend Instructor @Cubos Academy.
+- 🔮 Backend Developer @Fractal.
 - 👨‍🎓 Former student of Information Technology bachelor degree by Univesp.
 - 🔭 Building projects using Nestjs, Angular with Tailwind
 - 🐍 Diving further into Fullstack Web Development with Python (Django, DRF, Flask) and React with Next
