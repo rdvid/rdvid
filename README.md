@@ -13,8 +13,9 @@
 - 💻 Software Developer from Brazil.
 - 🔮 Backend Developer @Fractal.
 - 👨‍🎓 Former student of Information Technology bachelor degree by Univesp.
-- 🔭 Building projects using Nestjs, Angular with Tailwind
-- 🐍 Diving further into Fullstack Web Development with Python (Django, DRF, Flask) and React with Next
+- 🔭 Building projects using Nodejs (Express, NestJS), and React with Tailwind.
+- 🐍 Diving further into Backend Development with Python (Django, DRF, Flask).
+- ⚙️ Core contributor of [F-utils](https://futils.org/) open source framework 
 - 📚 Russian literature and philosophy casual reader (specially Dostoevski).
 - 🎹 Classical piano student.
 <br>
