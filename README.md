@@ -12,7 +12,7 @@
 
 - 💻 Software Developer from Brazil.
 - 🔮 Backend Developer @Fractal.
-- 👨‍🎓 Former student of Information Technology bachelor degree by Univesp.
+- 👨‍🎓 Bachelor Degree in Information Technology @Univesp.
 - 🔭 Building projects using Nodejs (Express, NestJS), and React with Tailwind.
 - 🐍 Diving further into Backend Development with Python (Django, DRF, Flask).
 - ⚙️ Core contributor of [F-utils](https://futils.org/) open source framework 
