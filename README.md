@@ -24,11 +24,11 @@
 <br>
 <div align="center">
  <a href="https://github.com/rdvid">
-   <img align="center" height="180em" decoding="async" loading="lazy" src="https://github-readme-stats-inky-three-35.vercel.app/api/top-langs/?username=rdvid&layout=compact&theme=tokyonight&hide=html,css,shell" />
+   <img align="center" height="180em" decoding="async" src="https://github-readme-stats-inky-three-35.vercel.app/api/top-langs/?username=rdvid&layout=compact&theme=tokyonight&hide=html,css,shell" />
  </a>
 
 <a href="https://github.com/rdvid">
- <img align="center" height="180em" decoding="async" loading="lazy" src="https://github-readme-stats-inky-three-35.vercel.app/api?username=rdvid&show_icons=false&theme=tokyonight&line_height=27&count_private=true" alt=rdvid github stats"/>
+ <img align="center" height="180em" decoding="async" src="https://github-readme-stats-inky-three-35.vercel.app/api?username=rdvid&show_icons=false&theme=tokyonight&line_height=27&count_private=true" alt=rdvid github stats"/>
 </a>
 </div>
 <br>
